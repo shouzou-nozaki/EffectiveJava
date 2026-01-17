@@ -3,7 +3,7 @@ package effectiveJava;
 import utils.StopWatch;
 
 public class Item63 {
-	public static void main(String[] args) { // staticを追加
+	public static void main(String[] args) {
 		Item63 lab = new Item63(); // 自分のインスタンスを作る
 		StopWatch sw = new StopWatch();
 
